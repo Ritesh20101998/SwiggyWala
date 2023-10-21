@@ -3,13 +3,13 @@ Restaurant Application
 
 your-backend-app/
 
-├── controllers/
-│   ├── authController.js
-├── models/
-│   ├── User.js
-├── routes/
-│   ├── authRoutes.js
-├── middleware/
-│   ├── authMiddleware.js
-├── server.js
+├── controllers/  <br>
+│   ├── authController.js <br>
+├── models/ <br>
+│   ├── User.js <br>
+├── routes/ <br>
+│   ├── authRoutes.js <br>
+├── middleware/ <br>
+│   ├── authMiddleware.js <br>
+├── server.js <br>
 
